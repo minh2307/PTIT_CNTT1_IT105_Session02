@@ -1,4 +1,4 @@
-Dưới đây là các yếu tố thuộc môi trường hệ thống của Grab:
+Các yếu tố thuộc môi trường hệ thống của Grab:
 | **Yếu tố**                                     | **Mô tả cụ thể trong hệ thống Grab**                                                                                                                                       |
 | ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Người dùng (Users)**                         | - Khách hàng đặt xe, đặt đồ ăn, giao hàng.<br>- Tài xế (xe máy, ô tô, giao hàng).<br>- Nhân viên hỗ trợ và quản trị hệ thống.                                              |
