@@ -1,0 +1,9 @@
+Dưới đây là các yếu tố thuộc môi trường hệ thống của Grab:
+| **Yếu tố**                                     | **Mô tả cụ thể trong hệ thống Grab**                                                                                                                                       |
+| ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Người dùng (Users)**                         | - Khách hàng đặt xe, đặt đồ ăn, giao hàng.<br>- Tài xế (xe máy, ô tô, giao hàng).<br>- Nhân viên hỗ trợ và quản trị hệ thống.                                              |
+| **Phần cứng (Hardware)**                       | - Điện thoại thông minh của tài xế và khách hàng.<br>- Máy chủ (server) đặt tại trung tâm dữ liệu hoặc trên nền tảng đám mây (cloud).<br>- Hệ thống GPS để định vị vị trí. |
+| **Phần mềm (Software)**                        | - Ứng dụng Grab (Android, iOS).<br>- Ứng dụng GrabDriver dành cho tài xế.<br>- Hệ thống backend (server, cơ sở dữ liệu, API, dịch vụ định tuyến, bản đồ).                  |
+| **Hệ thống bên ngoài (External Systems)**      | - Dịch vụ bản đồ (Google Maps, Here Maps).<br>- Hệ thống thanh toán (ngân hàng, ví điện tử, thẻ quốc tế).<br>- Hệ thống gửi thông báo (Firebase, SMS Gateway).             |
+| **Quy trình nghiệp vụ (Business Processes)**   | - Quy trình đặt chuyến: chọn điểm đi/đến → tài xế nhận → di chuyển → hoàn tất chuyến → thanh toán.<br>- Quy trình hỗ trợ khách hàng, xử lý khiếu nại, đánh giá dịch vụ.    |
+| **Luật lệ và quy định (Laws and Regulations)** | - Quy định giao thông của Việt Nam.<br>- Luật bảo vệ dữ liệu cá nhân (Nghị định 13/2023/NĐ-CP).<br>- Quy định thuế và hợp đồng giữa tài xế và công ty.                     |
